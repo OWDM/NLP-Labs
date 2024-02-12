@@ -8,7 +8,8 @@ The laboratory exercises can be found in the `docs` folder. Each lab is accompan
 
 - **Lab 1 & 2 : Introduction to Text Processing.**
   - Basic text preprocessing techniques.
-  - Introduction to the NLTK library.
+  - Introduction to the NLTK & Tashaphyne libraries
+
 
 
 - **Lab 3:**
